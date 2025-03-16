@@ -1,2 +1,16 @@
 # micro_pc_rack
-Micro pc rack
+I needed a micro pc rack to house a small proxmox cluster at home.
+
+## Credit to...
+Thanks to **Athers3d** from **MakerWorld** for the original design, [site](https://makerworld.com/en/models/472809-dell-optiplex-micro-storage-rack#profileId-778791) and printed page.
+
+## Manipulations
+The original stl files were adjusted to fit onto a Wanhao i3 duplicator. I ended up doing the following:
+ - Shortened the back cable extended pieces to fit into my build area of the Wanhao i3 duplicator (200 x 200 x 180mm -> w x d x h)
+ - Added a central support to both left and right segments. The thought behind this was that the original cable extended pieces also provided some structural support, so by removing these I wanted to add support elsewhere.
+ - Changed infill from 20 to 40% for side pieces.
+
+## Software used.
+ - Quick viewing and adding the left and right side support beams using Sketchup Make (version 17.2.2555).
+ - Plane slicing off the back cable extended pieces using Autocad MeshMixer (version 3.5.474).
+ - Changing the infill, slicing and exporting the gcode with UltiMaker Cura (version 5.9.0).
