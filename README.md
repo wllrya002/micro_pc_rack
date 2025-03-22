@@ -12,7 +12,7 @@ The original stl files were adjusted to fit onto a Wanhao i3 duplicator. I ended
 
 Below is an example of the before and after cases...top one is the original right piece, bottom is the shortened version with the structural section down the centre.
 
-[]()
+![comparison](https://github.com/wllrya002/micro_pc_rack/blob/main/media/original_right_side_vs_adjusted_right_side.png)
 
 ## Software used
  - Quick viewing and adding the left and right side support beams using Sketchup Make (version 17.2.2555).
